@@ -1,0 +1,10 @@
+{
+    "name": "ben cp02",
+    "description": "Package Management: Use npm to manage library dependencies",
+    "version": "0.1.0",
+    "license": "MIT",
+    "dependencies": {
+        "authenticare": "^0.4.7",
+        "jest": "^26.6.3"
+    }
+}
